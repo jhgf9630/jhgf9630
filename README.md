@@ -97,7 +97,6 @@ I am employed as a **cybersecurity software engineer** at LIG Nex1.
 | Certificate | Year |
 |-------------|------|
 | 정보처리기사 | 2024 |
-| OPIc IM1 | 2024 |
 | SQLD | 2022 |
 
 ---
